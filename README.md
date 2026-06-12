@@ -6,8 +6,11 @@ Objective: Analyze Blinkit’s sales performance, customer satisfaction, and inv
 **Key Technologies and Skills**
 
 -Power BI
+
 -Power Query Editor
+
 -Data Analysis Expressions (DAX)
+
 -Excel
 
 
